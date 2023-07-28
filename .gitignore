@@ -1,3 +1,5 @@
 venv
 src/*.mp4
 converted/*.avi
+saved/src/*.mp4
+saved/converted/*.avi
